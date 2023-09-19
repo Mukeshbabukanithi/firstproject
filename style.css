@@ -1,13 +1,19 @@
 div{height: 592px;
     margin-left: 200px;
-    margin-top: 100px;
+    margin-top: 10px;
+    background-position: ;
     background-repeat:repeat;
     background-position: 83px 18px;
     background-color: palevioletred;
-    background-image: url(cuvette\ project-1\ pic.svg);
+    background-image: https://wallpapercave.com/wp/wp5072456.jpg;
 width: 1000px;}
 h1{height: 90px;}
+div2{
+    background-color: white;
+    margin-left: 200px;
+    margin-top: 10px;
 
+}
 h1{font:inter;
     font-weight: 700px;
     font-size: 36px;
